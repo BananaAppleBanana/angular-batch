@@ -1,5 +1,3 @@
-package app;
-
 /**
  *  Monolithic
  *  1. vertical scaling

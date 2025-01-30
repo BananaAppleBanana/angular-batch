@@ -1,5 +1,3 @@
-package app;
-
 /**
  *  CAP / BASE
  *  Consistency
